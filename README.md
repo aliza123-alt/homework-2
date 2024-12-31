@@ -1,1 +1,11 @@
 # homework-2
+![logo](https://github.com/user-attachments/assets/ab2e8a53-48ea-4c3d-9c55-50a5fc6636fc)
+![iss](https://github.com/user-attachments/assets/3633b1e6-87f4-46b4-8c47-5c629ff0e3ca)
+![astronaut2](https://github.com/user-attachments/assets/5a1b5317-8031-43ca-a1e6-d4420ba28b3b)
+![astronaut1](https://github.com/user-attachments/assets/1d4a7ade-a50e-4dd5-b9a0-468d48003aaa)
+![astronaut](https://github.com/user-attachments/assets/3b40593f-ff59-4b4a-b939-0843b246fecf)
+![mission4](https://github.com/user-attachments/assets/ea6ce4f1-2dbb-4b1e-8f34-d2f81c45a4c1)
+![mission3](https://github.com/user-attachments/assets/53d2f99d-54da-4020-b823-0e53ab5bf1be)
+![mission2](https://github.com/user-attachments/assets/fb1aec60-ec9a-4cdb-95e3-ec08f9c78f27)
+![mission1](https://github.com/user-attachments/assets/8cbdc9f3-3c29-4455-b2e0-4873d996c1bd)
+![mars](https://github.com/user-attachments/assets/6ba94df4-c867-432e-a5e8-93bb1b28015b)
